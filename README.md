@@ -20,10 +20,11 @@ No confirmed application defects were found.
 
 ## Evidence
 Reports and screenshots are organized in:
-- `evidence/qase/`
-- `evidence/ui/`
-- `evidence/lifecycle/`
-- `evidence/installation/`
+
+- [Qase Test Reports](evidence/qase/)
+- [UI Testing Evidence](evidence/ui/)
+- [Lifecycle Testing Evidence](evidence/lifecycle/)
+- [Installation Testing Evidence](evidence/installation/)
 
 ## Limitations
 Testing covered selected scenarios across two Android environments. Application settings and advanced lifecycle scenarios were not comprehensively tested. The Android 17 Qase report lacks step-level Actual Results for `FOSS-3`. Jira issue `KAN-4` was simulated, not a confirmed application defect.
